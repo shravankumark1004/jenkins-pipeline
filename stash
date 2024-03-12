@@ -1,2 +1,6 @@
 hello this is stash file
+<<<<<<< HEAD
 sudheer
+=======
+sravan code
+>>>>>>> a0b8afbf44c82721f9c09967b6233129d00e97e4
